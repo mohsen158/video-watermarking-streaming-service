@@ -28,6 +28,6 @@ ffmpeg -re -i hls/index.m3u8  -i neolej.png -filter_complex "overlay=10:10"    -
 ## Nginx Config Sample for Nginx + Nginx Rtmp Module
 in nginx.conf file 
 
-## heml sampling page for video streaming 
+## html sampling page for video streaming 
 
 in index.html file 
