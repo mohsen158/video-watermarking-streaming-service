@@ -9,9 +9,7 @@ Build Live Video Streaming with watermarking Server use Ffmpeg Nginx Rtmp Module
 
 ## Setup Nginx + Nginx-rtmp-module & Ffmpeg 
 ```
-sudo apt-get 
-
-instal nginx-full
+sudo apt-get instal nginx-full
 
 ```
 
